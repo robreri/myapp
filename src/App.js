@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learning React Now!!!
+		  And Docker and Kubernetes...
         </a>
       </header>
     </div>
